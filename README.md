@@ -124,5 +124,3 @@ dotnet run --project ChipArtScraping
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
-
-Se quiser, posso já gerar o arquivo `README.md` formatado para você colar direto no GitHub. Deseja isso?
