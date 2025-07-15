@@ -1,5 +1,4 @@
-﻿
-using DataAccess;
+﻿using DataAccess;
 using DataAccess.Models;
 using MonitoresScraping;
 using Newtonsoft.Json;
@@ -91,3 +90,4 @@ class Program
     }
 
 }
+
